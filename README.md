@@ -4,7 +4,7 @@ Principais paradigmas de linguagens de programação. Estudo comparativo dos p
 
 ## Aulas
 
-* [Apresentação da disciplina](aulas/aula00.md)
+* [Apresentação da disciplina](aulas/aula01.md)
 
 ## Conteúdo programático
 
