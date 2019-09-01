@@ -80,14 +80,11 @@ Ao estudar uma linguagem programação, pode surgir as seguintes dúvidas:
 #### Avaliações
 
 * Unidade 1
-  * Prova Escrita - 6 pts
-  * Seminário sobre os padrões de projeto - 4 pts
+  * a definir
 * Unidade 2
-  * Laboratórios - 5 pts
-  * Seminário sobre linguagens, frameworks, bibliotecas ou sdks - 5 pts
+  * a definir
 * Unidade 3
-  * Laboratórios - 3 pts
-  * Projeto final - 7 pts
+  * a definir
 
 ***
 
