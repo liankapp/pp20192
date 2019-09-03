@@ -5,6 +5,9 @@ Principais paradigmas de linguagens de programação. Estudo comparativo dos p
 ## Aulas
 
 * [Apresentação da disciplina](aulas/aula01.md)
+* [Principais caracteristica das linguagens de programação](aulas/aula02.md)
+* [Evolução e breve visão dos paradigmas de programação](aulas/aula03.md)
+* [Introdução a Plataforma Java](aulas/aula04.md)
 
 ## Conteúdo programático
 
